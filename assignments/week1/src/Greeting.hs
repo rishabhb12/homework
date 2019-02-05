@@ -5,4 +5,4 @@ module Greeting where
 greeting = "ayyyy"
 
 -- finish the identity function
-ident x = undefined
+ident x = x
